@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "firstEventhub": "<name of first event hub>",
+    "secondEventhub": "<name of second event hub>",
+    "firstEventHubConnectionString": "",
+    "secondEventHubConnectionString": "",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": ""
+  }
+}
